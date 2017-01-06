@@ -1,0 +1,12 @@
+.idea
+local_settings.py
+*.pyc
+logs/
+media_files/
+static_files/
+.png
+.jpeg
+.gif
+.mp4
+.mp3
+
